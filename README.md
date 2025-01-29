@@ -2,7 +2,7 @@
 
 <!--
 **somama-ayan/Somama-Ayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I have developed pojects locally and then pushed the code to github.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
